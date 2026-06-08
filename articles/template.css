@@ -1,0 +1,9 @@
+.article-shell { padding: 4rem 0 6rem; }
+.article-layout { width: min(900px, calc(100vw - 2rem)); margin: 0 auto; }
+.article-layout img.hero { width: 100%; border-radius: 24px; box-shadow: var(--shadow); margin-bottom: 2rem; }
+.article-layout h1 { margin-bottom: 1rem; }
+.article-layout .standfirst { font-size: 1.2rem; color: var(--ink); max-width: 48rem; }
+.article-layout .prose { max-width: 72ch; }
+.article-layout .prose h2 { font-size: 2rem; margin-top: 2.5rem; }
+.article-layout .prose ul { color: var(--muted); line-height: 1.7; }
+.article-layout .meta { color: var(--accent-dark); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; font-size: .78rem; }
